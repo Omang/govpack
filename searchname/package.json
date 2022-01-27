@@ -1,0 +1,15 @@
+{
+  "name": "searchname",
+  "version": "1.0.0",
+  "description": "search service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "service"
+  ],
+  "author": "omang ramoswaane",
+  "license": "ISC"
+}

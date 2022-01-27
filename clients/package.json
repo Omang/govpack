@@ -1,0 +1,15 @@
+{
+  "name": "clientservice",
+  "version": "1.0.0",
+  "description": "clients or customers service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "client",
+    "service"
+  ],
+  "author": "omang ramoswaane",
+  "license": "ISC"
+}
